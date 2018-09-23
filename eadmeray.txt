@@ -1,0 +1,11 @@
+********IGPAY ATINLAY ANSLATORTRAY OGRAMPRAY***************** 
+Usageway: $ ./atinlayway [ilenamefay] {1}* 
+
+*Inalfay argumentway isway optionalway. Ifway ouyay onday't asspay anythingway anslationtray illway appearway 
+onway andardstay outputway. Ifway ouyay asspay 1 inway asway ethay econdsay argumentway ethay ogrampray illway 
+outputway ethay anslatedtray exttay otay away ilefay osewhay amenay isway ethay igpay atinlay anslatedtray 
+ersionvay ofway ethay originalway ilefay. 
+
+Orfay exampleway: eclarationday.txt -> eclarationdayway.txt 
+
+Ittenwray by Igelnay Aneyhay inway Onpythay 3 
